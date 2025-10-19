@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1121754 旅行日記</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="one">景點清單</string>
+    <string name="two">新增景點</string>
+    <string name="three">新增相片</string>
+    <string name="four">相片日記</string>
+</resources>

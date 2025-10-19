@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- 主背景 -->
+        <item name="colorPrimary">@color/mainColor</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- 按鈕高亮 -->
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- 整體背景色 -->
+        <item name="android:windowBackground">@color/backgroundColor</item>
+    </style>
+</resources>

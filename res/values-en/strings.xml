@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1121754 Travel Diary</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="one">Place List</string>
+    <string name="two">Add Place</string>
+    <string name="three">Add Photo</string>
+    <string name="four">Photo Diary</string>
+</resources>
