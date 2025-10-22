@@ -11,6 +11,8 @@ PhotoDiaryFragment是整個App中我最投入的部分。這個Fragment整合Cam
 
 總結來說，這次作業不只是練習技術，更讓我理解到**專案整合與功能設計**的重要性。每個小功能都不是孤立的，如何讓它們在同一個App中流暢運作，是我從這次作業中最大的收穫。我不僅學會將CameraX、Spinner、ViewPager2、BottomNavigationView、LiveData與ViewModel結合使用，也體會到模組化設計、資料共享以及即時UI更新的重要性。透過這個專案，我對**Android開發的全流程**有了更完整的理解，也更有信心面對日後更複雜的App開發挑戰。
 
+執行畫面
+
 <img width="425" height="840" alt="image" src="https://github.com/user-attachments/assets/4c2565a7-d9ba-4b30-be82-2d47e83916af" />
 <img width="442" height="828" alt="image" src="https://github.com/user-attachments/assets/880a38d9-068d-47f7-810d-9a49c07858fd" />
 <img width="412" height="818" alt="image" src="https://github.com/user-attachments/assets/916d3a10-cc54-4859-bb5f-95ac82e4d528" />
